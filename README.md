@@ -67,7 +67,7 @@ Type `help` in the SpoTUI command bar to see a list of available commands.
 | `tui -inputs -bg <#hex> -bg-hover <#hex> -text <#hex> -border <#hex>` | Set input colors |
 | `tui -inputs -buttons <on/off>` | Toggle bottom right buttons visibility |
 | `tui -inputs off` | Reset input colors |
-| `playlist` / `list` | Open playlist viewer |
+| `playlist` / `list` `<playlist-name>` | Open playlist viewer or open a specific playlist |
 | `play` / `pause` / `p` | Toggle playback |
 | `skip` | Next track |
 | `s` / `seek <mm:ss>` | Jump to a specific time |
